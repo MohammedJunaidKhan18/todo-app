@@ -1,4 +1,4 @@
-The name of the project is TO-DO-APP.
+The name of the project is TODO-APP.
 It is a simple to-do list application built with React.
 
 The major features are of this project are:
